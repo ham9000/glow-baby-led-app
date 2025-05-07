@@ -1,7 +1,7 @@
 # glow-baby-led-app
 Glowbaby App 
 
-# spled technical support
+# technical support
 you can create an issue here while having any question about the spled apps, or contact us via E-mail: [holman_l@yahoo.com].
 
 ## Support
